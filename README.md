@@ -1,2 +1,2 @@
 # test1
-Testing different fucntions
+This is a test project.
